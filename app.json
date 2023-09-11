@@ -1,16 +1,16 @@
 {
     "name": "Renamer Bot",
     "description": "Telegram File Renamer Bot ",
-    "logo": "https://graph.org/file/91ab4b346dddd0652958c.jpg",
+    "logo": "https://graph.org/file/1cf41f0bb767035612dbf.jpg",
     "keywords": ["Renamer Bot", "Mongo DB"],    
-    "repository": "https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT",
+    "repository": "https://github.com/Jaanix51/PYRO-RENAME-BOT",
     "env": {
         "API_ID": {
-            "description": "Your APP ID From my.telegram.org ",
+            "description": "24531343 ",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From my.telegram.org ",
+            "description": "70ffbad54f4ffe1037f729cc5c94dffe ",
             "value": ""
         },
         "WEBHOOK": {
@@ -18,32 +18,32 @@
             "value": "False"
         },
         "FORCE_SUB": {
-            "description": "Your force sub channel user name without [@] ",
+            "description": "@JaaniXBots ",
             "value": "",
             "required": false 
         },
         "BOT_TOKEN": {
-            "description": "Your Bot Token From @BotFather",
+            "description": "6470565593:AAFaZ7ytvzpWGVZcE-bsDPxqrfnV9NXEdeU",
             "value": ""
         },
         "ADMIN": {
-            "description":"Add Your User ID multiple is use space to split"
+            "description":"6385080394"
         },
         "LOG_CHANNEL": {
-            "description":"Bot Log Sending Channel (just create a private channel and add bot to admin and take channel id to add this variable) ⚠️ id startswith -100 must",
+            "description":"-1001629440246",
             "required": false           
         },
         "DB_URL": {
-            "description": "Your Mongo DB URL Obtained From mongodb.com",
+            "description": "mongodb+srv://Chutiya:123prince@cluster0.upspqre.mongodb.net/?retryWrites=true&w=majority",
             "value": ""
         },
         "DB_NAME":{ 
-            "description":"Your Mongo DB Database Name ",
+            "description":"Chutiya ",
             "value": "pyro-botz",
             "required": false
         },
         "START_PIC": {
-            "description": "Your Bot start cmd Pic from @MT_TelegraPH_Bot",
+            "description": "https://graph.org/file/7a822a7a7a733400abe91.jpg",
             "value": "",
             "required": false
         }
